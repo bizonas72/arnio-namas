@@ -1,0 +1,1 @@
+var json_arnionamas_6 = {"type":"FeatureCollection","name":"arnionamas_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[21.067956318032024,55.915751501230169]}}]}
